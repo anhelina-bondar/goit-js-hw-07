@@ -70,3 +70,16 @@ div button {
 div p {
   font-size: 20px;
 }
+
+ul li {
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+p a {
+  font-size: 30px;
+}
